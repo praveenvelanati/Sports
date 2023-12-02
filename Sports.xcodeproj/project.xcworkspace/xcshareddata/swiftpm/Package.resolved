@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "networker",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/praveenvelanati/Networker.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "c28437d0e9e3e412c875e1c8eddf6eefced8491f"
+      }
+    }
+  ],
+  "version" : 2
+}
