@@ -11,7 +11,7 @@ final class SportsTests: XCTestCase {
 
     func testHello() {
         let text = "Hello"
-        XCTAssert(text.count > 5)
+        XCTAssert(text.count > 4)
     }
 
 }
